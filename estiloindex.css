@@ -1,0 +1,52 @@
+body
+{
+	font-family: tahoma;
+	background-color:yellow;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.chiquinha
+{
+	color:green;
+}
+.quico
+{
+	color:red;
+}
+.madruga
+{
+	color:blue;
+}
+.cabecalho
+{
+	font-size:15px;
+	color: white;
+	background-color: green;
+	text-align:right;
+	font-style: italic;
+	text-decoration: underline;
+}
+h1
+{
+	font-size:50px;
+	color: white;
+	background-color: green;
+}
+	
+h2
+{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	font-style: italic;
+}
+p{
+	text-align:justify;
+	font-size: 20px;
+}
+div
+{
+	text-align: center;
+}
